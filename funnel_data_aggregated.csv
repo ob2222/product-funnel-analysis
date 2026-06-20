@@ -1,0 +1,4 @@
+platform,step_1_app_open,step_2_catalog,step_3_cart,step_4_checkout,step_5_success,payment_errors
+Android,3158,2685,1746,1214,197,847
+Web,1128,940,632,443,350,43
+iOS,3714,3166,2067,1483,1214,128
